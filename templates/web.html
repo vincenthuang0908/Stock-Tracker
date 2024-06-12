@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Stock Price Display</title>
+        <link rel="stylesheet" type="text/css" href="web.css">
+    </head>
+
+    <body>
+      <link rel="stylesheet" href="{{url_for('static', filename='web.css')}}">
+      <script src = "https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <script type="text/javascript" src = "{{url_for('static',filename='web.js')}}"></script>
+
+      <h1>Real Time Stock Price Tracker</h1>  
+      <form id="add-ticker-symbol">
+        <input type = "text" id="new-ticker" placeholder="Add ticker" required>
+        <button type = "submit" id = "addButton">Add</button>
+      </form>
+      <p id="timer">Next update in <span id="counter"></span> seconds</p>
+      <div id="tickers-grid"></div>
+
+    </body>
+</html>
