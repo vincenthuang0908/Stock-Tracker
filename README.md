@@ -21,13 +21,17 @@ Feel free to explore and experiment with it!
 **Instructions for Downloading and Running**
 
 **1. Clone the Project**
+
 Use the following command to clone the repository:
+
 git clone https://github.com/vincenthuang0908/Stock-Tracker.git
 
 **2. Install Live Server Extension**
+
 Install the Live Server extension in Visual Studio Code (or any other tool that can host a local web server).
 
 **3. Run the Project**
+
 Launch the project using Live Server or your preferred web server.
 You can now track real-time stock data!
 Enjoy!
