@@ -4,18 +4,9 @@ It utilizes the Yfinance API to retrieve and display real-time stock data for an
 
 Simply enter the company ticker symbol in the input box and it will display the stock price as well indicate increases and decreases in it each time it updates.
 
-Feel free to play around with it!
+Feel free to explore and experiment!
 
 
-Here's a refined version of your README section, with some corrections and enhancements for clarity:
-
-Real Time Stock Tracker
-
-This is a simple Real Time Stock Tracker built using Python, HTML, and CSS.
-
-It utilizes the Yfinance API to retrieve and display real-time stock data for any publicly traded company that the user selects, updating every 15 seconds.
-
-Feel free to explore and experiment with it!
 
 
 **Instructions for Downloading and Running**
