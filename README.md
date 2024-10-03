@@ -18,8 +18,8 @@ It utilizes the Yfinance API to retrieve and display real-time stock data for an
 Feel free to explore and experiment with it!
 
 
-
 **Instructions for Downloading and Running**
+
 **1. Clone the Project**
 Use the following command to clone the repository:
 git clone https://github.com/vincenthuang0908/Stock-Tracker.git
