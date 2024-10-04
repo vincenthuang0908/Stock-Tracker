@@ -23,5 +23,5 @@ Install the Live Server extension in Visual Studio Code (or any other tool that 
 **3. Run the Project**
 
 Launch the project using Live Server or your preferred web server.
-You can now track real-time stock data!
+You can now track stock prices in real-time!
 Enjoy!
