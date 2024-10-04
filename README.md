@@ -6,7 +6,7 @@ Simply enter the company ticker symbol in the input box and it will display the 
 
 Feel free to explore and experiment!
 
-<br><br>
+<br>
 
 **Instructions for Downloading and Running**
 
