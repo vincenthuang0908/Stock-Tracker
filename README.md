@@ -16,11 +16,7 @@ Use the following command to clone the repository:
 
 git clone https://github.com/vincenthuang0908/Stock-Tracker.git
 
-**2. Install Live Server Extension**
-
-Install the Live Server extension in Visual Studio Code (or any other tool that can host a local web server).
-
-**3. Install Required Libraries**
+**2. Install Required Libraries**
 
 Run the following command in your terminal to install the required libaries:
 
@@ -28,6 +24,10 @@ pip install yfinance flask pandas
 
 **4. Run the Project**
 
-Launch the project using Live Server or your preferred web server.
-You can now track stock prices in real-time!
+Use the following command in terminal to launch the project:
+
+python3 app.py
+
+This command runs the Python file app.py, which starts the Flask web server. Once the server is running, you can access the Real Time Stock Tracker in your web browser and track stock prices in real time. 
+
 Enjoy!
