@@ -22,12 +22,10 @@ Run the following command in your terminal to install the required libaries:
 
 pip install yfinance flask pandas
 
-**4. Run the Project**
+**3. Run the Project**
 
 Use the following command in terminal to launch the project:
 
 python3 app.py
 
-This command runs the Python file app.py, which starts the Flask web server. Once the server is running, you can access the Real Time Stock Tracker in your web browser and track stock prices in real time. 
-
-Enjoy!
+This command runs the Python file app.py, which starts the Flask web server. Once the server is running, you can access real-time stock data in your web browser. Enjoy!
