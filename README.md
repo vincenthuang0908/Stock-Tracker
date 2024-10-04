@@ -8,7 +8,7 @@ Feel free to explore and experiment!
 
 <br>
 
-**Instructions for Downloading and Running**
+##Instructions for Downloading and Running
 
 **1. Clone the Project**
 
