@@ -28,4 +28,4 @@ Use the following command in terminal to launch the project:
 
 python3 app.py
 
-This command runs the Python file app.py, which starts the Flask web server. Once the server is running, you can access real-time stock data in your web browser. Enjoy!
+This command runs the Python file "app.py" which starts the Flask web server. Once the server is running, you can access real-time stock data in your web browser. Enjoy!
